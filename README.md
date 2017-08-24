@@ -5,10 +5,10 @@
 - [关于Python](https://github.com/HikingTsang/iPython/blob/master/%E5%85%B3%E4%BA%8EPython/%E5%85%B3%E4%BA%8EPython.md "关于Python")
 
 - [安装Python](https://github.com/HikingTsang/iPython/blob/master/%E5%AE%89%E8%A3%85Python/%E5%AE%89%E8%A3%85Python.md "安装Python")
-    - [Python解释器](https://github.com/HikingTsang/iPython/blob/master/%E5%AE%89%E8%A3%85Python/%E5%AE%89%E8%A3%85Python.md "Python解释器")
+    - [Python解释器](https://github.com/HikingTsang/iPython/blob/master/%E5%AE%89%E8%A3%85Python/Python%E8%A7%A3%E9%87%8A%E5%99%A8.md "Python解释器")
 
 ## 学习内容
-- [第一个Python程序]()
+- [第一个Python程序](https://github.com/HikingTsang/iPython/tree/master/%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F "第一个Python程序")
     - [使用文本编辑器]()
 
 
