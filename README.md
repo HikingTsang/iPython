@@ -9,7 +9,9 @@
 
 ## 学习内容
 - [第一个Python程序](https://github.com/HikingTsang/iPython/blob/master/%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F/%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F.md "第一个Python程序")
-    - [使用文本编辑器]()
+    - [使用文本编辑器](https://github.com/HikingTsang/iPython/blob/master/%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F/%E4%BD%BF%E7%94%A8%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8.md "使用文本编辑器")
+    - Python代码运行助手 (略)
+    - [输入和输出]( "输入和输出")
 
 
 ## 学习教程
